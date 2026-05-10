@@ -1,0 +1,6 @@
+"# Changelog" 
+"" 
+"## Vers∆o 1.0" 
+"- Adicionada feature de login." 
+"- Adicionada feature de cadastro." 
+"- Documentada a vers∆o inicial." 
